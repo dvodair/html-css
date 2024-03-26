@@ -1,0 +1,29 @@
+body {
+    background-image: url('img/pattern004.png');
+}
+
+div.quadrado {
+    border: 2px solid  black;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+div#q1 {
+    background-image:linear-gradient(to
+    bottom, aqua, green) ;
+}
+
+
+div#q2 {
+    background-image: linear-gradient(to
+    bottom, yellow,orange);
+}
+
+
+div#q3 {
+    background-image: url('img/pattern001.png');
+}
