@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Rubik+Scribble&display=swap');
+
+body {
+    background-color: black;
+    background-image: url('img/pattern004.png');
+    
+}
+
+
+main {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    
+}
+
+
+h1 {
+    font-family: "Rubik Scribble", system-ui;
+    
+    
+
+}
